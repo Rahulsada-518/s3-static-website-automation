@@ -132,7 +132,8 @@ python deploy.py
 
 ### Terminal Output
 
-![alt text](terminal.png)
+<img width="954" height="304" alt="terminal" src="https://github.com/user-attachments/assets/99c031fd-df2d-49cb-bd6b-4ae4c256daae" />
+
 
 ### S3 Bucket Created
 
