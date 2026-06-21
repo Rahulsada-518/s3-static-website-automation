@@ -127,7 +127,8 @@ python deploy.py
 
 ### VS Code Project Structure
 
-![alt text](<images/VS Code Project Structure.png>)
+<img width="260" height="232" alt="image" src="https://github.com/user-attachments/assets/b1e23cad-ffa5-41e6-8ec7-77fbda304413" />
+
 
 ### Terminal Output
 
@@ -142,6 +143,7 @@ python deploy.py
 ![alt text](<images/Static Website Hosting Enabled.png>)
 
 ### Website Files Uploaded
+
 ![alt text](<images/Website Files Uploaded.png>)
 
 ### Final Website Output
