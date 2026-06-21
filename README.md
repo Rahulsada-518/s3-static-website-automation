@@ -1,6 +1,6 @@
-# 🚀 AWS S3 Static Website Hosting Automation using Python boto3
+# >> AWS S3 Static Website Hosting Automation using Python boto3
 
-## 📌 Project Overview
+## - Project Overview
 
 This project automates the deployment of a static website to Amazon S3 using Python and the AWS SDK (boto3).
 
@@ -8,7 +8,7 @@ Instead of manually creating buckets and uploading files through the AWS Console
 
 ---
 
-## 🎯 Objective
+## - Objective
 
 * Create an S3 bucket using Python
 * Configure static website hosting
@@ -18,7 +18,7 @@ Instead of manually creating buckets and uploading files through the AWS Console
 
 ---
 
-## 🛠️ Technologies Used
+## - Technologies Used
 
 * Python 3
 * boto3 (AWS SDK for Python)
@@ -28,7 +28,7 @@ Instead of manually creating buckets and uploading files through the AWS Console
 
 ---
 
-## 📂 Project Structure
+## > Project Structure
 
 ```text
 s3-static-website-automation/
@@ -45,7 +45,7 @@ s3-static-website-automation/
 
 ---
 
-## 🔄 Architecture Flow
+## > Architecture Flow
 
 ```text
 Website Files
@@ -65,7 +65,7 @@ Public Website URL
 
 ---
 
-## ⚙️ Setup Instructions
+## > Setup Instructions
 
 ### 1. Clone Repository
 
@@ -151,7 +151,7 @@ python deploy.py
 ![alt text](images/website-output.png)
 ---
 
-## ✅ Features
+## >> Features
 
 * Automated S3 Bucket Creation
 * Static Website Hosting Configuration
@@ -162,7 +162,7 @@ python deploy.py
 
 ---
 
-## 📚 Learning Outcomes
+##  >> Learning Outcomes
 
 Through this project I learned:
 
